@@ -7,6 +7,6 @@ import java.security.Principal;
 public class HomeController {
     @GetMapping("/home")
     public String home() {
-        return "Hello world";
+        return "Hello world!!";
     }
 }
