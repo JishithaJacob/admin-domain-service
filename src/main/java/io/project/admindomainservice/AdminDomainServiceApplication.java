@@ -8,7 +8,6 @@ public class AdminDomainServiceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AdminDomainServiceApplication.class, args);
-		//system.out.println("Hello");
 	}
 
 }
